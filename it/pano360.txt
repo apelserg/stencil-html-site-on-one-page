@@ -1,0 +1,138 @@
+﻿<p id='src_title' title='Пано 360'>
+</p>
+
+
+<h1>Пано 360</h1>
+
+<a href='http://panoram.info/creating_panoramic_images' target='_blank'>
+Создание панорамных изображений
+</a><br/>
+
+
+<a href='http://habrahabr.ru/post/101074/' target='_blank'>
+Панорама одним щелчком? 360° видео? Легко!
+</a><br/>
+
+
+<a href='http://habrahabr.ru/post/142106/' target='_blank'>
+Панорамы: быстро или качественно? И то и другое!
+</a><br/>
+
+
+<a href='http://habrahabr.ru/company/nordavind/blog/202322/' target='_blank'>
+72-мегапиксельная камера-мяч снимает 360-градусные панорамы в полёте
+</a><br/>
+
+
+<a href='http://zubetzblitz.narod.ru/NewQTWR/navigator.htm' target='_blank'>
+Сборник статей
+</a><br/>
+
+<a href='http://www.airpano.ru/Articles-AirPano.php?article=101586' target='_blank'>
+Видео-панорама 360
+</a><br/>
+
+<a href='http://www.airpano.ru/Articles-AirPano.php?article=103407' target='_blank'>
+Стерео-панорама 360
+</a><br/>
+
+<a href='http://www.airpano.ru/Articles-AirPano.php?article=103259' target='_blank'>
+Виртуальная 3D реальность
+</a><br/>
+
+<a href='http://habrahabr.ru/post/108525/' target='_blank'>
+Какие средства публикации и просмотра фотопанорам существуют для тех, кто не прибегает к услугам внешних хостингов?
+</a><br/>
+
+<a href='http://flashpanoramas.com/player/' target='_blank'>
+Flash Panorama Player
+</a><br/>
+
+<a href='http://www.airpano.ru/Articles-AirPano.php?article=100576' target='_blank'>
+Выкладываем сферу в Интернет с помощью Krpano. Легкий старт для начинающих.
+</a><br/>
+
+<a href='http://habrahabr.ru/post/184488/' target='_blank'>
+HTML5 круговая панорама на three.js
+</a><br/>
+
+<a href='http://threejs.org/examples/webgl_panorama_equirectangular.html' target='_blank'>
+Пример на сайте threejs.org
+</a><br/>
+
+
+<h1>Встроить панораму в HTML-страницу очень легко</h1>
+
+<p>
+Панорамы можно легко встроить в свою страницу через использование контейнера iframe.
+Например на 
+  <a href='http://www.airpano.ru/citations.php' target='_blank'>airpano.ru</a>
+для каждой панорамы предоставлятся очень простой код встраивания.
+</p>
+
+<iframe id="airpano_frame" width="700" height="450" src="http://www.airpano.ru/files/Moscow-Over-the-Kremlin/1-3-2" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" framespacing="0"></iframe>
+<br/>
+<br/>
+<a href="http://www.airpano.ru/citations.php" target="_blank">www.AirPano.com</a>
+
+
+<h1>Примеры панорам</h1>
+
+
+<a href='http://www.airpano.ru/' target='_blank'>
+Сборник - airpano.ru
+</a><br/>
+
+<a href='http://gigapan.com/' target='_blank'>
+Сборник - gigapan.com
+</a><br/>
+
+<a href='http://www.360cities.net/' target='_blank'>
+Сборник - 360cities.net
+</a><br/>
+
+<a href='http://www.viewat.org/' target='_blank'>
+Сборник - viewat.org
+</a><br/>
+
+<a href='http://panoram.info/' target='_blank'>
+Сборник - panoram.info
+</a><br/>
+
+<a href='http://www.0-360.com/gallery.asp' target='_blank'>
+Сборник - 0-360.com
+</a><br/>
+
+<hr/>
+
+<a href='http://pathspace.ru/images/Panoramas/NightSky-NearMoscow/nebo01.html' target='_blank'>
+Панорама - подмосковье
+</a><br/>
+
+<a href='http://pathspace.ru/images/Panoramas/teleskopes-krao/telescopes-krao1.html' target='_blank'>
+Панорама - звёздное небо в Крымской астрофизической обсерватории 
+</a><br/>
+
+<a href='http://www.airpano.ru/files/Rio-de-Janeiro-Brazil/1-3-2' target='_blank'>
+Панорама - Рио-де-Женейро
+</a><br/>
+
+<a href='http://www.airpano.ru/files/Maldives-Anantara-Gili/1-3-2' target='_blank'>
+Панорама - Мальдивы
+</a><br/>
+
+<a href='http://www.airpano.ru/files/Taj-Mahal-India/1-3-2' target='_blank'>
+Панорама - Тадж Махал
+</a><br/>
+
+<a href='http://astrofotografen.se/auroraborealis.html' target='_blank'>
+Панорама - полярное сияние (круговая видеопанорама)
+</a><br/>
+
+<a href='https://www.google.com/maps?ll=46.253913%2C6.018558&cbp=%2C306.08%2C%2C1%2C11.510002&layer=c&panoid=PwHC1mn7oBMAAAQJODm7Kw&spn=0.18000000000000788%2C0.30000000000000043&output=classic&cbll=46.253913%2C6.018558' target='_blank'>
+Панорама - большой андронный коллайдер
+</a><br/>
+
+
+<br/>
+<br/>

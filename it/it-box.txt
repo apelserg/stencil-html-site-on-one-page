@@ -1,0 +1,121 @@
+﻿<p id='src_title' title='ИТ копилка'>
+</p>
+
+<p class='epigraph'>
+Если приложение тормозит — добавьте кэширование.<br/>
+Если приложение глючит — уберите кэширование.
+</p>
+
+<!--
+####################################
+
+Справочники
+
+####################################
+-->
+
+<h1>Справочники</h1>
+
+<a href='http://w3schools.com/' target='_blank'>
+Сайтостроение (w3schools.com) (eng)
+</a><br/>
+
+<a href='https://developer.mozilla.org/ru/' target='_blank'>
+Сайтостроение (developer.mozilla.org/ru) (рус - частично)
+</a><br/>
+
+<a href='http://professorweb.ru/my/html/html5/level1/web_info.php' target='_blank'>
+Сайтостроение (professorweb.ru)
+</a><br/>
+
+<a href='http://www.xiper.net/' target='_blank'>
+Сайтостроение (xiper.net)
+</a><br/>
+
+<a href='http://html5ru.com/' target='_blank'>
+Сайтостроение (html5ru.com)
+</a><br/>
+
+<a href='http://www.puzzleweb.ru/' target='_blank'>
+Сайтостроение (puzzleweb.ru)
+</a><br/>
+
+<a href='http://javascript.ru/' target='_blank'>
+JavaScript (javascript.ru)
+</a><br/>
+
+<a href='http://shamansir.github.io/JavaScript-Garden/' target='_blank'>
+JavaScript (github.io)
+</a><br/>
+
+<a href='http://caniuse.com/' target='_blank'>
+Совместимость в браузерах (caniuse.com)
+</a><br/>
+
+<a href='http://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks' target='_blank'>
+Comparison of JavaScript frameworks (wikipedia.org)
+</a><br/>
+
+
+<!--
+####################################
+
+Новости
+
+####################################
+-->
+
+
+<h1>Новости</h1>
+
+
+<a href='http://habrahabr.ru/' target='_blank'>
+Новости (habrahabr.ru)
+</a><br/>
+
+<a href='http://www.ixbt.com/' target='_blank'>
+Новости (ixbt.com)
+</a><br/>
+
+<a href='http://blogerator.ru/' target='_blank'>
+Новости (blogerator.ru)
+</a><br/>
+
+<a href='http://internetno.net/' target='_blank'>
+Новости (internetno.net)
+</a><br/>
+
+<a href='http://cloudzone.ru/' target='_blank'>
+Новости (cloudzone.ru)
+</a><br/>
+
+
+<!--
+####################################
+
+Форумы
+
+####################################
+-->
+
+<h1>Форумы</h1>
+
+
+<a href='http://forum.ixbt.com/' target='_blank'>
+Форум. (forum.ixbt.com)
+</a><br/>
+
+<a href='http://www.cyberforum.ru/' target='_blank'>
+Форум. (cyberforum.ru)
+</a><br/>
+
+<a href='http://www.sql.ru/forum/' target='_blank'>
+Форум. (sql.ru/forum/)
+</a><br/>
+
+<a href='http://www.interface.ru/iservices/messages.asp?catId=290' target='_blank'>
+Форум. (interface.ru)
+</a><br/>
+
+<br/>
+<br/>

@@ -1,0 +1,41 @@
+﻿<p id='src_title' title='Поэзия'>
+</p>
+
+<h1>Омар Хаям</h1>
+
+
+<a href='http://ru.wikipedia.org/wiki/%CE%EC%E0%F0_%D5%E0%E9%FF%EC' target='_blank'>
+Википедия
+</a><br/>
+
+<a href='http://lib.ru/HAJAM/hayam.txt' target='_blank'>
+Рубаи - лучшие переводы
+</a><br/>
+
+<a href='http://hayam.spinners.ru/' target='_blank'>
+Рубаи
+</a><br/>
+
+
+<p class='poetry'>
+
+<br/>
+
+  * * *
+
+<br/>
+<br/>
+
+  Беспощадна судьба, наши планы круша.<br/>
+  Час настанет - и тело покинет душа,<br/>
+  Не спеши, посиди на траве, под которой<br/>
+  Скоро будешь лежать, никуда не спеша.<br/>
+
+<br/>
+
+  * * *
+
+<br/>
+<br/>
+
+</p>

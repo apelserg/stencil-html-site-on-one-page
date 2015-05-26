@@ -1,0 +1,42 @@
+﻿<p id='src_title' title='Поэзия'>
+</p>
+
+<h1>Игорь  Губерман</h1>
+
+
+<a href='http://ru.wikipedia.org/wiki/%C3%F3%E1%E5%F0%EC%E0%ED,_%C8%E3%EE%F0%FC_%CC%E8%F0%EE%ED%EE%E2%E8%F7' target='_blank'>
+Википедия
+</a><br/>
+
+<a href='http://guberman.lib.ru/' target='_blank'>
+Cайт
+</a><br/>
+
+<a href='http://www.guberman.info/poetry.html' target='_blank'>
+Ещё сайт
+</a><br/>
+
+
+<p class='poetry'>
+
+<br/>
+
+  * * *
+
+<br/>
+<br/>
+
+Вчера я бежал запломбировать зуб,<br/>
+и смех меня брал на бегу:<br/>
+всю жизнь я таскаю мой будущий труп<br/>
+и рьяно его берегу.<br/>
+
+<br/>
+
+  * * *
+
+<br/>
+<br/>
+
+</p>
+
