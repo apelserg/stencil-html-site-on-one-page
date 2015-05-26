@@ -78,9 +78,14 @@
   //-- Загрузка контента
   //--
   function onPageLoad() {
+    var startDir = "/stencil-html-site-on-one-page";
     var paramId = getUrlParametr("id");
     var paramIframe = getUrlParametr("iframe");
+
     if(paramId == "")   paramId = "/it/it-box.txt"
+
+    paramId = startDir + paramId;
+
     if(paramIframe == "" || paramIframe == 0) loadXMLDoc("div_body",paramId);
     if(paramIframe == 1) document.getElementById("div_body").innerHTML = "<iframe src='" + paramId + "' width='100%' height='400'></iframe>";
   }
