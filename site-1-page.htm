@@ -77,19 +77,31 @@
 
   //-- Загрузка контента
   //--
-  function onPageLoad() {
+  function onPageLoad(rootPath) {
     var paramId = getUrlParametr("id");
     var paramIframe = getUrlParametr("iframe");
-    if(paramId == "")   paramId = "/it/it-box.txt"
-    if(paramIframe == "" || paramIframe == 0) loadXMLDoc("div_body",paramId);
-    if(paramIframe == 1) document.getElementById("div_body").innerHTML = "<iframe src='" + paramId + "' width='100%' height='400'></iframe>";
+
+    if(paramIframe == "" || paramIframe == 0) {
+      if(paramId == "")   paramId = rootPath + "/it/it-box.txt"
+      else paramId = rootPath + paramId;
+      loadXMLDoc("div_body",paramId);
+    }
+
+    if(paramIframe == 1) {
+      paramId = rootPath + paramId;
+      document.getElementById("div_body").innerHTML = "<iframe src='" + paramId + "' width='100%' height='400'></iframe>";
+    }
+
+    if(paramIframe == 2) {
+      document.getElementById("div_body").innerHTML = "<iframe src='" + paramId + "' width='100%' height='400'></iframe>";
+    }
   }
 
 </script>
 
 </head>
 
-<body onload='onPageLoad()'>
+<body onload='onPageLoad("/stencil-html-site-on-one-page")'>
 
 <div id='div_header'>Макет сайта на основе одной HTML-страницы</div>
 
@@ -107,7 +119,7 @@
         <br/> &nbsp; &nbsp; ==
         <a href='site-1-page.htm?id=/it/html-start-page-on-canvas-galaxy.htm&iframe=1'>Внутренний HTML-файл</a>
         <br/> &nbsp; &nbsp; ==
-        <a href='site-1-page.htm?id=http://w3schools.com&iframe=1'>Внешний HTML-файл</a>
+        <a href='site-1-page.htm?id=http://w3schools.com&iframe=2'>Внешний HTML-файл</a>
 
         <hr/>
 
